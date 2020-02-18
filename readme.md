@@ -13,6 +13,6 @@
 
 
 # Working Version: 
-<img src="images/one.png" height="800px" box-shadow="0px 4px 15px 1px #000000">
-<img src="images/two.png" height="800px" box-shadow="0px 4px 15px 1px #000000">
-<img src="images/three.png" height="800px" box-shadow="0px 4px 15px 1px #000000">
+<img src="images/one.png" height="800px">
+<img src="images/two.png" height="800px">
+<img src="images/three.png" height="800px">
