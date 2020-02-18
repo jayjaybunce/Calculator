@@ -13,6 +13,6 @@
 
 
 # Working Version: 
-<img src="">
-<img src="">
-<img src="">
+<img src="images/one.png">
+<img src="images/two.png">
+<img src="images/three.png">
