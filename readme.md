@@ -13,6 +13,6 @@
 
 
 # Working Version: 
-<img src="images/one.png" height="800px">
-<img src="images/two.png" height="800px">
-<img src="images/three.png" height="800px">
+<img src="images/one.png">
+<img src="images/two.png">
+<img src="images/three.png">
