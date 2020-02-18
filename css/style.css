@@ -39,8 +39,8 @@ body{
     padding-right: 10px;
     grid-column: 1/5;
     text-align: right;
-    font-size: 20px;
-    line-height: 65px;
+    font-size: 30px;
+    line-height: 70px;
     
 }
 #result:hover{
@@ -54,12 +54,17 @@ body{
     background-color: #ebebeb;
     text-align: center;
     line-height: 65px;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 .button:hover{
     -webkit-box-shadow: inset 0px 0px 20px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: inset 0px 0px 20px 0px rgba(0,0,0,0.75);
     box-shadow: inset 0px 0px 20px 0px rgba(0,0,0,0.75);
 }
+
 .button:active{
     color: green;
 }
